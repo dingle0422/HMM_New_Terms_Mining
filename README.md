@@ -10,13 +10,13 @@
 
 
 ## config.txt description
-[data_name]
+### data_name:
 old: The domain terms we already have, to sharpen our jieba tokenizer (path: ./data)
 new: The new corpus file you want to dig the new-terms, originally its in pd.dataframe format (path: ./data)
 corp_col: The column name of corpus in the pd.dataframe file
 corp_file: The file name of the corpus cleaned by code 1.
 
-[strategy]
+### strategy:
 keep_stopwords: boolean, to direct the model whether keep the stopwords. Once you change the parameter, please rerun the whole workflow 1. to 2.
 threshold: num, to set up the threshold number of overlap-words filter
 
