@@ -3,18 +3,18 @@ import pickle
 import numpy as np
 import configparser
 import os
-
+cwd = os.path.split(os.path.realpath(__file__))[0]
 # 初始化一些数据
 os.system('python corpus_prep.py')
 conf = configparser.ConfigParser()
-conf.read(r"./config.txt")
-corp = pickle.load(open(r"./data/{}".format(conf.get("data_name","corp_file")), 'rb'))
+conf.read(os.path.join(cwd, r"config.txt"))
+corp = pickle.load(open(os.path.join(cwd, r"data/{}".format(conf.get("data_name","corp_file"))), 'rb'))
 w_att = set([o[1] for i in corp for o in i]) # 所有词性种类 -> set
 
 
 # 头部隐层（词性）概率
 def head_mat(corp):
-    '''将已经标号BMES词性的语料进行3类矩阵的构建
+    '''将已经标号BMES词性的语料进行3类矩阵的构建c
     corp: BMES语料 -> list of list
     '''
     h_head = defaultdict(int)
@@ -80,6 +80,5 @@ if __name__ == "__main__":
     t = trans_mat(corp)
     e = emit_mat(corp)
     for n,m in zip(("t","e"),(t,e)):
-        pickle.dump(m, open(r"./data/{}_mat.pkl".format(n), "wb"))
-
+        pickle.dump(m, open(os.path.join(cwd, r"data/{}_mat.pkl".format(n)), "wb"))
     print(t)

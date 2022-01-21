@@ -1,6 +1,10 @@
 [data_name]
 old = tax_terms.txt
-new = df_question_0.pk
+new = question_add_hf.pkl
 corp_col = question
-corp_file = clean_corp_2022-1-5.pkl
+corp_file = clean_corp_2022-1-21.pkl
+
+[strategy]
+keep_stopwords = False
+threshold = 3
 

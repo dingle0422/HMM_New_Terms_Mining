@@ -1,0 +1,165 @@
+亿企
+亿企助手
+问答机器人
+机器人
+亿企赢
+税友
+企业会计准则Accounting Standards for Enterprises     
+权责发生制   accrual basis accounting system     
+收付实现制	         cash basis accounting system
+账面价值book value                      
+公允价值fair value
+清算价值liquidation value                      
+置存价值  carrying  value                     
+残值scrape/salvage value
+历史成本historical cost
+重置成本replacement cost                 
+面值                       
+资产负债表  balance sheet                 
+利润表profit statement      
+现金流量表 cash flow statement
+所有者权益变动表statement of changes in equity               
+利润分配表statement of allocation of net income                 
+财务状况变动表statement of  changes in financial position          
+资金来源和运用表	statement of sources and uses of funds  
+折旧              depreciation                         
+直线法            straight-line method（SL）                        
+年数总和法        sum-of-the-year's－digits method（SYD）                 
+双倍余额递减法    double－declining－balance method（DDB）  
+加速折旧法	accelerated depreciation method	
+四大假设  	four accounting assumptions：
+会计主体   accounting entity
+持续经营   going concern
+货币计量   measuring unit
+会计分期   accounting period   
+可合理确定   reasonable  certain              
+很可能    probable                       
+有可能   possible                       
+极小可能	 remote	
+研发费 R&D cost 
+研究阶段  research stage
+开发阶段  develop stage
+资本化 capitalization
+费用化 expensing           
+交易性金融资产  trading financial asset
+持有至到期投资  held-to-maturity investment
+可供出售金额资产 salable financial asset
+投资性房地产 investment real estate
+无形资产 intangible assets 
+商标权 trademarks 
+专利权 patents 
+特许权 franchise 
+著作权 copyright 
+计算机软件 computer software 
+商誉 goodwill 
+开办费 organization costs 
+全国人民代表大会  the national people’s congress （NPC）
+常务委员会  the standing committee 
+全国人大常务委员会 the standing committee of the national people’s congress
+国务院  the state council
+财政部 the ministry of finance
+国家税务总局State Administration for Taxation 
+地方税务局Local Taxation bureau 
+当地主管税务机关the local competent tax authority 
+税务局The Revenue Office
+工商行政管理 administrative agency for industry and commerce 
+Administration for industry and commerce （AIC）
+中外合资企业  Chinese-foreign equity joint ventures
+中外合作企业  Chinese-foreign contractual joint ventures
+外商投资企业 foreign investment
+外国企业 foreign enterprise
+外资企业 foreign-capital enterprises
+出口型企业export-oriented enterprise 
+先进技术企业technologically advanced enterprise 
+普通合伙企业general partnership (GP)	
+有限合伙企业limited partnership (LP)	
+有限责任合伙limited liability partnership (LLP)	
+企业经济特区Special Economic Zone 
+沿海经济开发地区 in coastal economic open zones
+边远不发达地区 remote underdeveloped areas
+value added tax	增值税
+business tax	营业税
+consumption tax	消费税
+enterprise income tax；
+Income Tax for Enterprises	企业所得税
+customs tax	关税
+individual income tax	个人所得税
+resource tax	资源税
+urban and township land use tax 	城镇土地使用税
+city maintenance and construction tax	城市维护扩建税
+farmland occupation tax	耕地占用税
+land appreciation tax	土地增值税
+stamp tax	印花税
+vehicle acquisition tax 	车辆购置税
+deed tax	契税
+fuel tax	燃油税
+security transaction tax	证券交易税
+social security tax 	社会保障税
+house property tax	房产税
+slaughter tax	屠宰税
+urban real estate tax	城市房地产税
+inheritance tax	遗产税
+banquet tax	筵席税
+vehicle and vessel usage tax	车船使用税
+vehicle and vessel license plate tax	车船使用牌照税
+vessel tonnage tax	船舶吨税
+agriculture tax	农业税
+animal husbandry tax	牧业税
+income tax on foreign enterprises and
+enterprises with foreign investment；
+Income Tax for Enterprises with Foreign Investment and Foreign Enterprises	外商投资及外国企业所得税
+fixed assets investment orientation 
+regulation tax 	固定资产投资方向调节税
+The tax collection and administrative law税收征管法
+The detailed rules for the implementation of sh 实施细则  
+tax returns filing 纳税申报
+taxes payable 应交税金
+the assessable period for tax payment 纳税期限
+the timing of tax liability arising 纳税义务发生时间
+consolidate reporting 合并申报
+the outbound business activity 外出经营活动
+Tax Inspection Report 纳税检查报告
+Tax Inspection Report 纳税检查报告
+tax avoidance 逃税
+tax evasion 避税
+tax base 税基
+refund after collection 先征后退
+withhold and remit tax 代扣代缴
+collect and remit tax 代收代缴
+flat rate 比例税率
+withholding income tax 预提税
+withholding at source 源泉扣缴
+State Treasury 国库
+tax preference 税收优惠
+the first profit-making year 第一个获利年度
+refund of the income tax paid on the reinvested amount 再投资退税
+the tax school  大学里的税务学院
+The Tax Institute一般作为机构的税务学院
+the national tax institute  国家税务干部学院
+nominal tax rate名义税率 
+effective tax rate实际税率 
+应缴
+税额
+细目
+筹建期
+所属期
+入职
+任职
+离职
+在职
+免抵
+调库
+产检假
+到岗奖励
+迁账手册
+免抵退税
+失信人
+纳税人
+易税
+缴款书
+企税
+季报
+月报
+年报
+主表
+企税月,季,报主表
