@@ -18,6 +18,6 @@
 
 ### strategy:
 1. keep_stopwords: boolean, to direct the model whether keep the stopwords. Once you change the parameter, please rerun the whole workflow 1. to 2.
-2. threshold: num, to set up the threshold number of overlap-words filter
+2. threshold: int, to set up the threshold number of overlap-words filter
 
 ## The whole workflow will be upgraded continuously. For now, its good to go.
